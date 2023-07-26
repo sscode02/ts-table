@@ -1,0 +1,51 @@
+.tableHeader-0d4fc4 {
+    display: flex;
+}
+
+.tableHeader-0d4fc4 div {
+    width: 100px;
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    color: rgba(0, 0, 0, .88);
+    font-weight: 500;
+    text-align: start;
+    background: #fafafa;
+}
+
+div {
+    display: inline-block;
+}
+
+.bodyRow-0d4fc4 {
+    display: flex;
+    cursor: pointer;
+
+}
+
+.bodyRow-0d4fc4 div {
+    width: 100px;
+    display: flex;
+    padding: 5px;
+}
+
+.pagination-0d4fc4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.pagination-0d4fc4 div {
+    height: 32px;
+    min-width: 32px;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+}
+
+.pagination-click-0d4fc4 {
+    border: 1px solid #1677ff;
+    border-radius: 6px;
+
+}
